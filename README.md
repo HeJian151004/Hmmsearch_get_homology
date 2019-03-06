@@ -1,5 +1,6 @@
 # Hmmsearch_get_homology
-使用hmmsearch程序，基于预先准备好的hmmer库，搜索几个物种之间的直系同源基因。
+使用hmmsearch程序，基于预先准备好的hmmer库，搜索几个物种之间的直系同源基因。  
+
 Use the hmmsearch program to search for direct homologous genes between several species based on the prepared hmmer library.
 
 ```
