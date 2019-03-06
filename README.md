@@ -7,7 +7,8 @@ Use the hmmsearch program to search for direct homologous genes between several 
 
 You need to have three types of files in the folder, first the hmmbuild file with the.hmm suffix, then the nucleic acid file with the.cds suffix, and finally the amino acid file with the.pep suffix.  
 
-该pyothon程序可以找出在核酸文件以及氨基酸文件中符合".hmm"结构域模式的序列。  
+该pyothon程序可以找出在核酸文件以及氨基酸文件中符合".hmm"结构域模式的序列。    
+
 The pyothon program can find sequences in nucleic acid files and amino acid files that conform to the ".hmm" domain pattern. 
 
 
